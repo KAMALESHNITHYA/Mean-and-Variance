@@ -1,4 +1,4 @@
-#  Mean and variance of a discrete  distribution
+![image](https://github.com/KAMALESHNITHYA/Mean-and-Variance/assets/145743119/3702755d-1932-45ee-ad0c-ecff8c513452)#  Mean and variance of a discrete  distribution
 
 
 # Aim : 
@@ -50,8 +50,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Program :
 
 
-
 # Output : 
+![image](https://github.com/KAMALESHNITHYA/Mean-and-Variance/assets/145743119/7b9cb6c0-c984-4010-85e9-1a9c24e65a0f)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
