@@ -1,5 +1,5 @@
-
-
+## NAME : KAMALESH R
+## REGISTER NUMBER : 212223230094
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
